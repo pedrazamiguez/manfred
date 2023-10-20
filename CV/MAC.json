@@ -283,6 +283,50 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "HNC Computing and Systems Development",
+        "startDate": "2011-06-01",
+        "institution": {
+          "name": "IES Punta del Verde",
+          "description": "- Systems management, networking and multi-user platforms with Windows and Linux.\n- Database design and administration with MySQL and Oracle 10g.\n- Algorithm fundamentals and programming languages, such as C, PHP and Java.",
+          "URL": "http://www.iespuntadelverde.es",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/20/97614fc3-75c9-4ef0-90fb-77cad6f382b5_logo_transparente.png",
+            "alt": "logo_transparente.png"
+          }
+        },
+        "finishDate": "2011-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Cisco",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
