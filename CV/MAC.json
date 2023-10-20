@@ -1,0 +1,358 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Andrés",
+      "surnames": "Pedraza Míguez",
+      "title": "A methodical Back-end developer with a robust APIs & microservices background using Java/Kotlin.",
+      "description": "A methodical Back-end developer with a robust APIs & microservices background using Java/Kotlin, seeking to expand horizons in multithreading, reactive programming and mobile development.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/20/7fa6c870-771f-459e-abb9-ce2899e795e0_linkedin-photo-45845.linkedin-photo-45845",
+        "alt": "23/10/20/7fa6c870-771f-459e-abb9-ce2899e795e0_linkedin-photo-45845.linkedin-photo-45845"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJB80DpcZyEg0R0F0uR-IuNiA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Coria del Río"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pedrazamiguez/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Freelance Developer",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "I currently provide services based on my acquired knowledge over the years as a freelance developer to different clients and companies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Brandworkz",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/20/60fa26bd-a49f-4ca1-8ca0-75bcc35d8745_linkedin-photo-45845.linkedin-photo-45845",
+            "alt": "23/10/20/60fa26bd-a49f-4ca1-8ca0-75bcc35d8745_linkedin-photo-45845.linkedin-photo-45845"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Java Developer",
+            "startDate": "2017-02-01",
+            "finishDate": "2022-01-31",
+            "challenges": [
+              {
+                "description": "In charge of the Java API on a multi-tenancy microservices architecture. Apart from developing, I was also involved in some core decision-making, planning sessions and estimate discussions.\n\nMAIN RESPONSIBILITIES\n· Built a completely new module for Reporting.\n· Implemented custom visualizations in Kibana.\n· Implemented an RSS XML feed tool to integrate external data with Web to Print templates.\n· Enhanced the product API security by implementing OAuth2 authorisation flows and introducing user roles.\n· Contributed to revamp the product's CMS module.\n· Worked with bash scripts and CRON to automate continuous delivery.\n· Suggested and carried out project dependencies update.\n· Set up Linux servers to deploy software.\n· Inducted new starters.\n· Advised clients on how to integrate their system with 3rd party applications.\n· Improved decision-making skills.\n· Wrote clean, intelligible documentation about internal processes and technical procedures.\n· Fixed a considerable number of bugs on production.\n· Present on most releases to deliver new product versions.\n\n\nMAIN PROJECT\nBrandworkz, a web-based product sold to clients on a subscription basis to manage their brand and get them to market quicker. The product comprises different modules, namely Digital Asset Management, Brand Guidelines, Logo Finder, Brand Kit, Workflows, among many others.\nSome clients using the product are University of Greenwich, Dr. Martens, Boeing, Brother, Assa Abloy, Hitachi.\n\nTOOLS AND FRAMEWORKS\nIntelliJ IDEA, Azure Data Studio, Jira, Confluence, Jenkins, Gradle, AWS EC2, S3, RDS, Cloud9, DynamoDB, Redis, RabbitMQ, Elasticsearch, Logstash, Kibana, Spring Boot, Spring Cloud, Velocity Templates, Thymeleaf, RESTful web services, Remmina, OAuth 2, Swagger 2, Open API 3, OpenVPN 3, Google Vision API, PostgreSQL, Microsoft SQL Server, Liquibase, Git."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Locassa Ltd"
+        },
+        "roles": [
+          {
+            "name": "Server Team Lead",
+            "startDate": "2015-07-01",
+            "finishDate": "2016-11-30",
+            "challenges": [
+              {
+                "description": "Walked through different stages of development life cycle in multiple projects, including planning, requirements gathering, analysis, implementation, testing, deployment and maintenance.\n\nMAIN RESPONSIBILITIES\n· Contributed in all phases of the development lifecycle.\n· Wrote well designed, testable, efficient code.\n· Ensured designs are in compliance with specifications.\n· Prepared and produced releases of software components.\n· Supported continuous improvement by investigating alternatives and new frameworks.\n· Inducted new starters.\n· Involved in client meetings for requirements gathering.\n· Liaised with other team members.\n· Conducted demo sessions for clients.\n· Developed back-office apps for several projects.\n\nPROJECTS\n· Ziferblat - Check in at these coffee shops and pay just for the time you spend there.\n· Minted - Meet up with people to exchange different currencies.\n· Inkvite - Write short stories in cooperation with the community.\n· Jarvis - Lots of news from all around the world.\n· Vesta Fitness - Sport-oriented social network.\n· Rounds on Me - Buy drinks for your friends.\n· gowithYamo - Discover art galleries nearby.\n· Spot & Change - Spot the difference game.\n\nTOOLS AND FRAMEWORKS\nIntelliJ IDEA, MySQL Workbench, SourceTree, Jira, Maven, AWS Elastic Beanstalk, S3, EC2, RDS, Spring Boot, Thymeleaf, RESTful web services, OAuth 2, JsonDoc, Swagger 2, GlobalPayments, Twilio, Foursquare Places API."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Servinform",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/20/854c0ab6-510a-4874-a7cc-47b94dfebd00_linkedin-photo-45845.linkedin-photo-45845",
+            "alt": "23/10/20/854c0ab6-510a-4874-a7cc-47b94dfebd00_linkedin-photo-45845.linkedin-photo-45845"
+          }
+        },
+        "roles": [
+          {
+            "name": "J2EE Developer / Analyst",
+            "startDate": "2014-10-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "· Worked towards meeting Service Level Agreements.\n· Responsible for writing analysis documents and advanced requirements gathering.\n· In charge of configuration, testing and deployment on the integration environment.\n· Resolved critical problems for the production environment.\n· Fostered communication skills by training co-workers recently joined to the team.\n\nMAIN PROJECT\nHAPR-MIGRA, a J2EE application to migrate data from the HAPR system database to a new one, as many changes took place to drastically improve the way data were saved.\n\nTOOLS AND FRAMEWORKS\nEclipse IDE, TOAD, MySQL Workbench, iReport, MantisBT, Redmine, Apache Tomcat, Subversion, Maven, FortiClient VPN.\niBatis, Spring, Struts 1, Tiles, JasperReports, Servlets, JSP, HTML, Javascript, CSS, PL/SQL. \nApache commons, log4j, jsoup, iText, JSTL, displaytag."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AYESA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/20/aa0aa789-4b2a-4062-8632-9b2906362792_linkedin-photo-45845.linkedin-photo-45845",
+            "alt": "23/10/20/aa0aa789-4b2a-4062-8632-9b2906362792_linkedin-photo-45845.linkedin-photo-45845"
+          }
+        },
+        "roles": [
+          {
+            "name": "Oracle Junior Developer",
+            "startDate": "2011-07-01",
+            "finishDate": "2011-12-31",
+            "challenges": [
+              {
+                "description": "· Revised relevant documents arranged to be delivered to citizens.\n· Altered a considerable number of application behaviours due to client specifications.\n\nMAIN PROJECT\nIntegrated Social Services System, a project based on Oracle 9i Forms for handling social services with citizens.\n\nCLIENT\nDepartment of Equality, Health and Social Politics of the Council of Andalusia.\n\nTOOLS AND FRAMEWORKS\nOracle JDeveloper, SQLDeveloper, MantisBT, Redmine, Oracle Forms 9i, PL/SQL."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS EC2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DynamoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gradle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kibana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Logstash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PL/SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Cloud",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/pedrazamiguez/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "pedraza.miguez@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "7706102826",
+          "countryCode": "+44"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Elasticsearch",
+          "type": "technology"
+        },
+        {
+          "name": "Flutter",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Mobile Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Elasticsearch",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Cloud",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "My ideal job would make me feel I'm not working at all, but enjoy getting ideas implemented and delivered to the client on a timely manner.\n\nIt would be a work environment where I'm not taken for granted and my input is taken into account. I like discussing with co-workers about performance improvements and design patterns.\n\nWhile I feel comfortable in a management or lead position, my passion is coding, so I wouldn't be doing many tasks that put me away from what I really like the most.\n\nIn my ideal job, communication between departments or teams is crucial. \n\nBesides, one never knows enough, so I would be very interested if the client or company I end up working for offers courses or certifications.\n"
+  }
+}
