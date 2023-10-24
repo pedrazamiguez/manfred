@@ -383,6 +383,10 @@
         {
           "name": "Kotlin",
           "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
