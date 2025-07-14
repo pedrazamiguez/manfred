@@ -396,6 +396,9 @@
           "name": "Python",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
       ]
     },
     "status": "openToOffers"
