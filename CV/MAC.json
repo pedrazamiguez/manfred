@@ -27,6 +27,10 @@
         "URL": "https://www.linkedin.com/in/pedrazamiguez/"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/pedrazamiguez"
+      },
+      {
         "type": "other",
         "URL": "https://pedrazamiguez.eu"
       }
@@ -356,6 +360,10 @@
         {
           "URL": "https://www.linkedin.com/in/pedrazamiguez/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/pedrazamiguez",
+          "type": "github"
         }
       ],
       "contactMails": [
