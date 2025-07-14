@@ -185,16 +185,58 @@
       },
       {
         "organization": {
-          "name": "Locassa Ltd"
+          "name": "Locassa Ltd",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/14/20b77ec2-b68d-4764-be9a-a0506110e039_screenshot-2025-07-1.png",
+            "alt": "Screenshot 2025-07-14 at 17.16.31.png"
+          }
         },
         "roles": [
           {
-            "name": "Server Team Lead",
+            "name": "Back-end Developer",
             "startDate": "2015-07-01",
             "finishDate": "2016-11-30",
             "challenges": [
               {
-                "description": "Walked through different stages of development life cycle in multiple projects, including planning, requirements gathering, analysis, implementation, testing, deployment and maintenance.\n\nMAIN RESPONSIBILITIES\n· Contributed in all phases of the development lifecycle.\n· Wrote well designed, testable, efficient code.\n· Ensured designs are in compliance with specifications.\n· Prepared and produced releases of software components.\n· Supported continuous improvement by investigating alternatives and new frameworks.\n· Inducted new starters.\n· Involved in client meetings for requirements gathering.\n· Liaised with other team members.\n· Conducted demo sessions for clients.\n· Developed back-office apps for several projects.\n\nPROJECTS\n· Ziferblat - Check in at these coffee shops and pay just for the time you spend there.\n· Minted - Meet up with people to exchange different currencies.\n· Inkvite - Write short stories in cooperation with the community.\n· Jarvis - Lots of news from all around the world.\n· Vesta Fitness - Sport-oriented social network.\n· Rounds on Me - Buy drinks for your friends.\n· gowithYamo - Discover art galleries nearby.\n· Spot & Change - Spot the difference game.\n\nTOOLS AND FRAMEWORKS\nIntelliJ IDEA, MySQL Workbench, SourceTree, Jira, Maven, AWS Elastic Beanstalk, S3, EC2, RDS, Spring Boot, Thymeleaf, RESTful web services, OAuth 2, JsonDoc, Swagger 2, GlobalPayments, Twilio, Foursquare Places API."
+                "description": "London, on-site\n\n- Involved in all phases of the software lifecycle: planning, implementation, deployment, and maintenance.  \n- Built back-office apps and participated in client demos and requirement gathering.  \n- Mentored new hires and explored new frameworks and tools to improve development efficiency.\n\n**Projects:** Ziferblat, Minted, Inkvite, Jarvis, Vesta Fitness, Rounds on Me, gowithYamo, Spot & Change\n\n**Tech Stack:** Spring Boot, Thymeleaf, REST APIs, MySQL, OAuth2, Swagger 2, AWS (Elastic Beanstalk, S3, EC2), Twilio, Foursquare Places API."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "AWS EC2",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
+                "type": "technology"
               }
             ]
           }
