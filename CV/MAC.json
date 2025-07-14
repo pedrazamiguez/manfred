@@ -383,6 +383,14 @@
           "type": "technology"
         },
         {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Mockito",
+          "type": "technology"
+        },
+        {
           "name": "Spring Boot",
           "type": "technology"
         }
