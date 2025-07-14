@@ -55,6 +55,16 @@
               {
                 "description": "- Led development of a Java-based API within a multi-tenant microservices architecture.  \n- Built a complete Reporting module and developed custom visualizations in Kibana.  \n- Implemented OAuth2 authorization and enhanced API security with user roles.  \n- Automated deployment with bash scripts and CRON jobs.  \n- Managed Linux server setup and deployments.  \n- Actively involved in architectural decisions, planning sessions, onboarding new hires, and advising clients.  \n- Wrote clean, intelligible documentation and resolved production issues regularly.\n\n**Main Project: Brandworkz**  \nA SaaS platform for digital asset management, used by clients such as University of Greenwich, Dr. Martens, Boeing, Brother, Assa Abloy, and Hitachi.\n"
               }
+            ],
+            "competences": [
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Cloud",
+                "type": "technology"
+              }
             ]
           }
         ]
