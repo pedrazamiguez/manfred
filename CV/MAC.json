@@ -371,15 +371,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Elasticsearch",
-          "type": "technology"
-        },
-        {
           "name": "Java",
-          "type": "technology"
-        },
-        {
-          "name": "Kotlin",
           "type": "technology"
         },
         {
