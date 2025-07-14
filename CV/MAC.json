@@ -393,6 +393,10 @@
         {
           "name": "Spring Boot",
           "type": "technology"
+        },
+        {
+          "name": "gRPC",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
