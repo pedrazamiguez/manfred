@@ -371,6 +371,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AsyncAPI",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },
