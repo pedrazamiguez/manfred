@@ -342,6 +342,12 @@
       },
       {
         "skill": {
+          "name": "Capacity for self-management ",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Proactivity",
           "type": "practice"
         }
