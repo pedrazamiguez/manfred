@@ -206,6 +206,12 @@
       },
       {
         "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Kibana",
           "type": "technology"
         }
@@ -225,6 +231,12 @@
       {
         "skill": {
           "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -279,12 +291,6 @@
       {
         "skill": {
           "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Cloud",
           "type": "technology"
         }
       }
@@ -451,15 +457,15 @@
         "type": "technology"
       },
       {
-        "name": "SQL",
+        "name": "Kafka",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
         "type": "technology"
       },
       {
         "name": "Spring Boot",
-        "type": "technology"
-      },
-      {
-        "name": "Spring Cloud",
         "type": "technology"
       }
     ],
