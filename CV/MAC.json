@@ -40,22 +40,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Freelance"
-        },
-        "roles": [
-          {
-            "name": "Freelance Developer",
-            "startDate": "2022-02-01",
-            "challenges": [
-              {
-                "description": "I currently provide services based on my acquired knowledge over the years as a freelance developer to different clients and companies."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Brandworkz",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/20/60fa26bd-a49f-4ca1-8ca0-75bcc35d8745_linkedin-photo-45845.linkedin-photo-45845",
