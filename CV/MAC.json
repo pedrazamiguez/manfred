@@ -360,6 +360,12 @@
       ],
       "contactMails": [
         "pedraza.miguez@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "665604912",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
