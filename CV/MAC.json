@@ -371,6 +371,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
