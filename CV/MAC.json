@@ -40,6 +40,72 @@
     "jobs": [
       {
         "organization": {
+          "name": "Plexus Tech",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/14/35a30bb3-46b4-4596-9cd1-e44376ae6410_plexus_tech_logo.jpeg",
+            "alt": "plexus_tech_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Java Developer",
+            "startDate": "2023-10-01",
+            "challenges": [
+              {
+                "description": "Seville, remote\n\n- Participated in internal training programs to stay updated with evolving backend technologies and enterprise practices.  \n- Took part in technical interviews with Inditex, securing a role in the “Raw Materials” project for Zara’s supply chain.  \n- Developed and maintained microservices in a Dockerized environment deployed on Azure using Java 21 and Spring Boot (Amiga framework).  \n- Engineered backend systems using hexagonal architecture and integrated Kafka for event-driven communication.  \n- Contributed to architectural decisions, estimations, and strategic planning with cross-functional teams.  \n- Wrote unit and integration tests using JUnit, Mockito, and Traffic Parrot to ensure software stability.\n\n**Main Project: Raw Materials (Inditex)**  \nA backend-focused initiative to manage the logistics and distribution of raw materials across Zara warehouses, part of a broader digital transformation effort.\n\n**Tech Stack:** Java 21, Spring Boot 3, Amiga Framework, Apache Kafka, Docker, Azure, MongoDB, Git, JUnit, Mockito, Traffic Parrot, RESTful APIs, CI/CD pipelines."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Brandworkz",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/20/60fa26bd-a49f-4ca1-8ca0-75bcc35d8745_linkedin-photo-45845.linkedin-photo-45845",
