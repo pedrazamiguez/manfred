@@ -44,7 +44,8 @@
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/14/35a30bb3-46b4-4596-9cd1-e44376ae6410_plexus_tech_logo.jpeg",
             "alt": "plexus_tech_logo.jpeg"
-          }
+          },
+          "URL": "https://www.plexus.es"
         },
         "roles": [
           {
