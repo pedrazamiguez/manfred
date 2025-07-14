@@ -53,16 +53,64 @@
             "finishDate": "2023-08-01",
             "challenges": [
               {
-                "description": "- Led development of a Java-based API within a multi-tenant microservices architecture.  \n- Built a complete Reporting module and developed custom visualizations in Kibana.  \n- Implemented OAuth2 authorization and enhanced API security with user roles.  \n- Automated deployment with bash scripts and CRON jobs.  \n- Managed Linux server setup and deployments.  \n- Actively involved in architectural decisions, planning sessions, onboarding new hires, and advising clients.  \n- Wrote clean, intelligible documentation and resolved production issues regularly.\n\n**Main Project: Brandworkz**  \nA SaaS platform for digital asset management, used by clients such as University of Greenwich, Dr. Martens, Boeing, Brother, Assa Abloy, and Hitachi.\n"
+                "description": "- Led development of a Java-based API within a multi-tenant microservices architecture.  \n- Built a complete Reporting module and developed custom visualizations in Kibana.  \n- Implemented OAuth2 authorization and enhanced API security with user roles.  \n- Automated deployment with bash scripts and CRON jobs.  \n- Managed Linux server setup and deployments.  \n- Actively involved in architectural decisions, planning sessions, onboarding new hires, and advising clients.  \n- Wrote clean, intelligible documentation and resolved production issues regularly.\n\n**Main Project: Brandworkz**  \nA SaaS platform for digital asset management, used by clients such as University of Greenwich, Dr. Martens, Boeing, Brother, Assa Abloy, and Hitachi.\n\n**Tech Stack:** Spring Boot, Spring Cloud, Spring Security, Velocity, Thymeleaf, REST APIs, Jenkins, AWS EC2/S3/RDS/DynamoDB, Redis, PostgreSQL, Elasticsearch, Swagger 2, Open API 3, Liquibase, Git, Azure Data Studio.\n"
               }
             ],
             "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "AWS EC2",
+                "type": "technology"
+              },
+              {
+                "name": "DynamoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "OpenApi",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
+                "type": "technology"
+              },
               {
                 "name": "Spring Boot",
                 "type": "technology"
               },
               {
                 "name": "Spring Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Swagger",
                 "type": "technology"
               }
             ]
