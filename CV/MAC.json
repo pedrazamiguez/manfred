@@ -395,6 +395,10 @@
           "type": "technology"
         },
         {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
           "name": "Spring Boot",
           "type": "technology"
         },
