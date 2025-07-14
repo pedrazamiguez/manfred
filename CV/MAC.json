@@ -342,12 +342,6 @@
       },
       {
         "skill": {
-          "name": "Mentoring ability",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Proactivity",
           "type": "practice"
         }
