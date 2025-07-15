@@ -246,11 +246,12 @@
       },
       {
         "organization": {
-          "name": "Grupo Servinform",
+          "name": "Servinform",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/15/ab053acf-6def-4e71-ac82-d4578eba18c0_5a0bdab8-e340-4b47-b.png",
             "alt": "5a0bdab8-e340-4b47-b0ce-f9bb395fdf0a.png"
-          }
+          },
+          "URL": "https://www.servinform.es"
         },
         "roles": [
           {
