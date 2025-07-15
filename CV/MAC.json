@@ -725,6 +725,10 @@
           "type": "technology"
         },
         {
+          "name": "GitHub Actions",
+          "type": "technology"
+        },
+        {
           "name": "JUnit",
           "type": "technology"
         },
