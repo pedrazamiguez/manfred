@@ -705,6 +705,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "AsyncAPI",
           "type": "technology"
         },
