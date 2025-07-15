@@ -709,6 +709,10 @@
           "type": "technology"
         },
         {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },
