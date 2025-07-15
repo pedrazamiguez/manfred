@@ -391,6 +391,62 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Ayesa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/15/07b9017e-7ee2-4a6b-96d0-fbebe874fd52_ayesa.jpg",
+            "alt": "Ayesa.jpg"
+          },
+          "URL": "https://www.ayesa.com"
+        },
+        "roles": [
+          {
+            "name": "Junior Java Developer",
+            "startDate": "2011-04-01",
+            "finishDate": "2011-06-01",
+            "challenges": [
+              {
+                "description": "Seville, on-site (part-time)\n\n- Created GUI prototypes and implemented minor validations and improvements.\n\n**Main Project:** Concert@ – Private healthcare information system  \n\n**Client:** Department of Equality, Health and Social Politics, Junta de Andalucía\n\n**Tech Stack:** Hibernate, Spring, JSF, Richfaces, PL/SQL, Maven, JBoss, Eclipse, NetBeans\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Netbeans",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
