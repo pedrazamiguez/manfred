@@ -316,6 +316,12 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "DynamoDB",
           "type": "technology"
         }
