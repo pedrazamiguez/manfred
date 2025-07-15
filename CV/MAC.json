@@ -358,20 +358,35 @@
       },
       {
         "organization": {
-          "name": "AYESA",
+          "name": "Ayesa",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/20/aa0aa789-4b2a-4062-8632-9b2906362792_linkedin-photo-45845.linkedin-photo-45845",
-            "alt": "23/10/20/aa0aa789-4b2a-4062-8632-9b2906362792_linkedin-photo-45845.linkedin-photo-45845"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/15/3442c73a-bdc1-417c-989a-cbd152bab435_ayesa.jpg",
+            "alt": "Ayesa.jpg"
+          },
+          "URL": "https://www.ayesa.com"
         },
         "roles": [
           {
-            "name": "Oracle Junior Developer",
+            "name": "Junior Oracle Developer",
             "startDate": "2011-07-01",
             "finishDate": "2011-12-31",
             "challenges": [
               {
-                "description": "· Revised relevant documents arranged to be delivered to citizens.\n· Altered a considerable number of application behaviours due to client specifications.\n\nMAIN PROJECT\nIntegrated Social Services System, a project based on Oracle 9i Forms for handling social services with citizens.\n\nCLIENT\nDepartment of Equality, Health and Social Politics of the Council of Andalusia.\n\nTOOLS AND FRAMEWORKS\nOracle JDeveloper, SQLDeveloper, MantisBT, Redmine, Oracle Forms 9i, PL/SQL."
+                "description": "Seville, on-site (part-time)\n\n- Updated documents and application flows per client specifications to reduce support requests.\n\n**Main Project:** Integrated Social Services System  \n\n**Client:** Department of Equality, Health and Social Politics, Junta de Andalucía\n\n**Tech Stack:** Oracle Forms 9i, PL/SQL, Oracle JDeveloper, SQL Developer\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Oracle Forms",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
               }
             ]
           }
