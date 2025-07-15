@@ -254,12 +254,46 @@
         },
         "roles": [
           {
-            "name": "J2EE Developer / Analyst",
+            "name": "Java Analyst",
             "startDate": "2014-10-01",
             "finishDate": "2015-05-31",
             "challenges": [
               {
-                "description": "· Worked towards meeting Service Level Agreements.\n· Responsible for writing analysis documents and advanced requirements gathering.\n· In charge of configuration, testing and deployment on the integration environment.\n· Resolved critical problems for the production environment.\n· Fostered communication skills by training co-workers recently joined to the team.\n\nMAIN PROJECT\nHAPR-MIGRA, a J2EE application to migrate data from the HAPR system database to a new one, as many changes took place to drastically improve the way data were saved.\n\nTOOLS AND FRAMEWORKS\nEclipse IDE, TOAD, MySQL Workbench, iReport, MantisBT, Redmine, Apache Tomcat, Subversion, Maven, FortiClient VPN.\niBatis, Spring, Struts 1, Tiles, JasperReports, Servlets, JSP, HTML, Javascript, CSS, PL/SQL. \nApache commons, log4j, jsoup, iText, JSTL, displaytag."
+                "description": "Seville, on-site\n\n- Gathered requirements and authored analysis documents for government projects.  \n- Led configuration, testing, and deployment in integration environments.  \n- Provided mentorship to junior team members.\n\n**Main Project:** HAPR-MIGRA – Migrated legacy data systems as part of a modernization effort.\n\n**Tech Stack:** iBatis, Spring, Struts 1, Tiles, JSP, PL/SQL, iText, jsoup, Apache Tomcat, Subversion, Maven."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "Ibatis",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "Subversion",
+                "type": "technology"
               }
             ]
           }
