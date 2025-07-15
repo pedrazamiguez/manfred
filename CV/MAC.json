@@ -729,6 +729,10 @@
           "type": "technology"
         },
         {
+          "name": "GitHub Copilot",
+          "type": "technology"
+        },
+        {
           "name": "JUnit",
           "type": "technology"
         },
