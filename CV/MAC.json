@@ -301,6 +301,62 @@
       },
       {
         "organization": {
+          "name": "Servinform",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/07/15/d5b8c22b-e3a0-4df2-988c-da5f75bf6d0b_5a0bdab8-e340-4b47-b.png",
+            "alt": "5a0bdab8-e340-4b47-b0ce-f9bb395fdf0a.png"
+          },
+          "URL": "https://www.servinform.es"
+        },
+        "roles": [
+          {
+            "name": "Java Developer",
+            "startDate": "2012-01-01",
+            "finishDate": "2014-09-01",
+            "challenges": [
+              {
+                "description": "Seville, on-site\n\n- Delivered new functionalities based on detailed analysis documentation.  \n- Wrote PL/SQL scripts to improve database performance.  \n- Learned and applied Scrum methodology to agile teams.\n\n**Main Project:** HAPR – A system for telematic authorization of specialized workers.\n\n**Client:** Department of Economy, Innovation, Science and Employment, Junta de Andalucía\n\n**Tech Stack:** Hibernate, iBatis, Spring, JSP, Servlets, PL/SQL, JasperReports, Subversion.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "Ibatis",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "Jasper Reports",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Servlet",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Subversion",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "AYESA",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/10/20/aa0aa789-4b2a-4062-8632-9b2906362792_linkedin-photo-45845.linkedin-photo-45845",
