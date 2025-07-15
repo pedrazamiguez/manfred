@@ -765,6 +765,10 @@
           "type": "technology"
         },
         {
+          "name": "Terraform",
+          "type": "technology"
+        },
+        {
           "name": "gRPC",
           "type": "technology"
         }
